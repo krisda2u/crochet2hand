@@ -1,0 +1,12 @@
+2013-06-22 03:51:19,179 - [INFO] - from play in main 
+Listening for HTTP on /0:0:0:0:0:0:0:0:9000
+
+2013-06-22 03:51:26,467 - [INFO] - from play in New I/O worker #1 
+datasource [postgres://postgres:1234@localhost:5432/shop] bound to JNDI as DefaultDS
+
+2013-06-22 03:51:27,172 - [INFO] - from play in New I/O worker #1 
+database [default] connected at jdbc:postgresql://localhost:5432/shop
+
+2013-06-22 03:51:28,640 - [INFO] - from play in New I/O worker #1 
+Application started (Dev)
+
